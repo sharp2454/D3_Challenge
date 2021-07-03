@@ -38,6 +38,7 @@
 .chart {
   display: block;
   margin: 0;
+  background: rgb(118, 214, 139);
 }
 
 .d3-tip {
